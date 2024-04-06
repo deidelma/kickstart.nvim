@@ -1,5 +1,9 @@
 # kickstart.nvim
 
+This is David Eidelman's fork of `kickstart.nvim`. I am grateful to the `Neovim Lua` team for putting together the original.
+
+The original `init.lua` can be found at the [kickstart.nvim github page](https://github.com/nvim-lua/kickstart.nvim).
+
 ## Introduction
 
 A starting point for Neovim that is:
